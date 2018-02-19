@@ -1,5 +1,3 @@
-require('browser')
-
 function renderSection(section) {
     var heading = '## ' + section.name
     var content = section.content
